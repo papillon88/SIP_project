@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\bin\Debug\06_Codecs_handler.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\bin\Debug\06_Codecs_handler.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\obj\Debug\06_Codecs_handler.csprojResolveAssemblyReference.cache
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\obj\Debug\06_Codecs_handler.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\06_Codecs_handler\06_Codecs_handler\obj\Debug\06_Codecs_handler.pdb

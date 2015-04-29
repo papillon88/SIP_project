@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\bin\Debug\RTP_Encryption.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\bin\Debug\RTP_Encryption.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\obj\Debug\RTP_Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\obj\Debug\RTP_Encryption.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\RTP_Encryption\RTP_Encryption\obj\Debug\RTP_Encryption.pdb

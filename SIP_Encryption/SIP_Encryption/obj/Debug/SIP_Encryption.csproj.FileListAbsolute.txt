@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\bin\Debug\SIP_Encryption.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\bin\Debug\SIP_Encryption.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\obj\Debug\SIP_Encryption.csprojResolveAssemblyReference.cache
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\obj\Debug\SIP_Encryption.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\SIP_Encryption\SIP_Encryption\obj\Debug\SIP_Encryption.pdb

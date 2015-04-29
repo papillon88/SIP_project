@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\bin\Debug\01_SIP_Registration.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\bin\Debug\01_SIP_Registration.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\obj\Debug\01_SIP_Registration.csprojResolveAssemblyReference.cache
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\obj\Debug\01_SIP_Registration.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\01_Basic_SIP_Registration\01_SIP_Registration\obj\Debug\01_SIP_Registration.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\bin\Debug\Noise_Reduction.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\bin\Debug\Noise_Reduction.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\obj\Debug\Noise_Reduction.csprojResolveAssemblyReference.cache
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\obj\Debug\Noise_Reduction.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\Noise_Reduction\Noise_Reduction\obj\Debug\Noise_Reduction.pdb

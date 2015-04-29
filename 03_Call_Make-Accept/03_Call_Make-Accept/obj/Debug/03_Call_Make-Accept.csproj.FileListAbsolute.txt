@@ -1,0 +1,6 @@
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\bin\Debug\03_Call_Make-Accept.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\bin\Debug\03_Call_Make-Accept.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\bin\Debug\VoIPSDK.dll
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\obj\Debug\03_Call_Make-Accept.exe
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\obj\Debug\03_Call_Make-Accept.pdb
+C:\Users\Ajay_AR7\Documents\Ozeki\Ozeki SDK\Examples\Softphone\03_Call_Make-Accept\03_Call_Make-Accept\obj\Debug\03_Call_Make-Accept.csprojResolveAssemblyReference.cache
